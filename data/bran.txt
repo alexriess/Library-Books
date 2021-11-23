@@ -1,0 +1,5 @@
+A1*Alpha*100 Alpha Street
+B2*Beta*200 Beta Street
+C3*Charlie*300 Charlie Drive
+D4*Delta*400 Delta Drive
+E5*Epsilon*500 Epsilon Avenue

@@ -1,0 +1,5 @@
+H34*John Smith*456 Capetown Avenue*(453)-241-5562
+H35*Aaron Smith*23 West Street*(321)-341-5626
+H36*Holly Michaels*89 N. High Street*(573)-884-9998
+H37*Regina Hemsworth*1210 Geese Street*(886)-122-1211
+H38*PJ Tucker*111 Heidelberg Road*(351)-245-1211

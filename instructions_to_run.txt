@@ -1,0 +1,15 @@
+Terminal:
+once I got into server, I typed 'cd SQL' to access directory
+then typed 'psql arriess_lab1'
+
+
+Load .txt files into the Tables in this order (if they aren't already loaded):
+
+
+1. PUBLISHER
+2. BOOK
+3. AUTHORS
+4. LIBRARY_BRANCH
+5. BOOK_COPIES
+6. BOOK_LOANS
+7. BORROWER
